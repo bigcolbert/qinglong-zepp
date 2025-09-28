@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
 """
-// @name         华米运动步数修改(青龙终极修复版)
+// @name         华米运动步数修改(mixia)
 // @namespace    https://github.com/jilei522/qinglong-zepp/
 // @version      2.0.0
 // @description  通过青龙面板修改华米运动步数并同步到微信/支付宝
